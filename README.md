@@ -18,6 +18,5 @@ This application is used to manage the inventory of an E-commerce organization t
 
 ## Video Walkthrough
 
-### [Direct Link]()
 
-![Video Walkthrough]()
+ <a href ="https://drive.google.com/file/d/1vlVx0rrpVEp39rt_f7A6ConxgNjmu1wI/view?usp=sharing"><img src="E-Commerce Backend.png"></a><br>
